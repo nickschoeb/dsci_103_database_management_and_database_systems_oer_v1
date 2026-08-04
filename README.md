@@ -1,0 +1,2 @@
+# dsci_103_database_management_and_database_systems_oer_v1
+OER V1 for dsci_103_database_management_and_database_systems
