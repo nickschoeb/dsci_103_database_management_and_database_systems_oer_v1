@@ -15,3 +15,6 @@ VALUES
 
 -- Run with caution!!!
 -- DELETE FROM people
+
+-- psql cmd
+\COPY people (employee_id, first_name, last_name, email, date_of_birth, year_hired, is_active) FROM 'C:\Users\nicks\DEV\PYTHON\data2.csv' DELIMITER ',' CSV HEADER;
