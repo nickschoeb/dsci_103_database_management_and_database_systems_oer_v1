@@ -1,5 +1,5 @@
 /*
-Example 03_000
+Assignment 02_000
 Simple People Table
 Same as 02 different data
 */
