@@ -1,5 +1,7 @@
 # dsci_103_database_management_and_database_systems_oer_v1
 
+![DSCI 103](images/BookCoverGemini.jpg)
+
 OER V1 for dsci_103_database_management_and_database_systems
 
 This is a "living document" course, it will be updated as sections are delivered each fall semester and students provide feedback on what else is needed
