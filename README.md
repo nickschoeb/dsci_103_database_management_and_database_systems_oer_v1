@@ -19,3 +19,5 @@ These are examples in PostgreSQL as part of a course focused on learning the fun
 These examples are currently geared towards using pagAdmin4. Most examples here are simple enough they can be easily adjusted to work with other tools.
 
 This accompanies content on MOST OER related to a grant from HCC.
+
+## Note to instructors: if you need access to exams or answers please contact me and verify as an instructor for materials.
