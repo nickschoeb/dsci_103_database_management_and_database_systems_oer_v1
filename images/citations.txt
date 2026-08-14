@@ -1,1 +1,2 @@
-
+* /images/BookCoverGemini.jpg
+    - Google. (2026). [AI-generated image of a textbook cover for DSCI 103: Database Management and Database Systems] [AI-generated image]. Gemini. https://gemini.google.com
