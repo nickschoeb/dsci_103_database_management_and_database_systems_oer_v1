@@ -1,0 +1,29 @@
+one to many demo 2,,,,,
+,,,,,
+Author can write many books,,,,,
+This seems simple right?,,,,,
+,,,,,
+,,,,Author,Book Title
+,,,,,
+,,Someone people with no books,,Joe Nobody,
+,,,,Jane Boring,
+,,,,,
+,,Authors with 1 book,,1,
+,,,,2,
+,,,,3,
+,,,,,
+,,Authros with many books,,George Orwell,1984
+,,,,,Animal Farm
+,,,,,
+,,,,Jane Austen,Sense and Sensibility
+,,,,,Pride and Prejudice
+,,,,,Mansfield Park
+,,,,,Emma
+,,,,,Northanger Abbey
+,,,,,
+,,The most famous author ever,,Anonymous,
+,,,,,
+Problems,,,,,
+what about co authored books??? We can't do that yet,,,,,
+what about when it is discovered that someone else actually wrote the book?,,,,,
+what if we don't know?,,,,,
