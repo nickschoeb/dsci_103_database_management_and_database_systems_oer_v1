@@ -103,7 +103,7 @@ DROP TABLE IF EXISTS order_items;
 CREATE TABLE order_items(
   order_item_id INT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
   order_id INT REFERENCES orders(order_id) ON DELETE CASCADE,
-  product_id INTEGER REFERENCES products(product_id) ON DELETE RESTRICT,
+  product_id INTEGER REFERENCES products(product_id) ON DELETE CASCADE,
   quantity INTEGER NOT NULL CHECK (quantity > 0),
   sort_order INTEGER NOT NULL,
   created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
